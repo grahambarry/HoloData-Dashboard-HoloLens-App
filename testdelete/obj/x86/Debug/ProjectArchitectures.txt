@@ -1,0 +1,4 @@
+C:\Users\Graham Barry\Documents\HolographicAcademy-Holograms-101\UActionPointBuild3\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj;x86
+C:\Users\Graham Barry\Documents\HolographicAcademy-Holograms-101\UActionPointBuild3\GeneratedProjects\UWP\Assembly-CSharp-firstpass\Assembly-CSharp-firstpass.csproj;x86
+C:\Users\Graham Barry\Documents\HolographicAcademy-Holograms-101\UActionPointBuild3\GeneratedProjects\UWP\Assembly-CSharp-firstpass\Assembly-CSharp-firstpass.csproj;x86
+C:\Users\Graham Barry\Documents\HolographicAcademy-Holograms-101\UActionPointBuild3\testdelete\testdelete.csproj;x86
